@@ -1,0 +1,38 @@
+import {
+  Loader2,
+  LogIn,
+  LogOut,
+  Moon,
+  ShoppingCart,
+  Sun,
+  User,
+  Menu,
+  X,
+  Home,
+  Search,
+  Heart,
+  Package,
+  Settings,
+  CreditCard,
+  HelpCircle,
+} from "lucide-react"
+
+export const Icons = {
+  logo: ShoppingCart,
+  login: LogIn,
+  logout: LogOut,
+  sun: Sun,
+  moon: Moon,
+  spinner: Loader2,
+  user: User,
+  menu: Menu,
+  close: X,
+  home: Home,
+  search: Search,
+  heart: Heart,
+  package: Package,
+  settings: Settings,
+  creditCard: CreditCard,
+  help: HelpCircle,
+}
+
